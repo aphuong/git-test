@@ -1,9 +1,8 @@
 purple
-turquoise
-green
+*turquoise
+*green
 red
 pink
-orange
-blue
-yellow
-orange
+*blue
+
+* = jesse's favorite colors
