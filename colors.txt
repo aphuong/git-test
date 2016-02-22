@@ -1,5 +1,7 @@
 purple
+turquoise
 green
 red
 pink
+orange
 blue
