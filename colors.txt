@@ -4,5 +4,6 @@ purple
 red
 pink
 *blue
+brown
 
 * = jesse's favorite colors
